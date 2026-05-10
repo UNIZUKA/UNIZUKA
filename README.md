@@ -15,7 +15,7 @@
 ```yaml
 Name     : Mehdi K'ouioich
 Role     : BTS DAI Student · Beginner Web Developer
-Location : Morocco 🇲🇦
+Location : Morocco dakhla
 Building : YouTube Channel
 Fun fact : Addicted to gaming 🎮
 Contact  : yunoga41@gmail.com
