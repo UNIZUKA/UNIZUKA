@@ -85,6 +85,4 @@ Contact  : yunoga41@gmail.com
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0a0f1e&height=100&section=footer"/>
 </p>
 
-<p align="center">
-  <i>✦ Clean · Dark · Neon · Morocco 🇲🇦 ✦</i>
-</p>
+
